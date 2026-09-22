@@ -11,4 +11,4 @@ We currently build and maintain three major data platforms:
 You can learn more about DataSF on the [city's website](https://www.sf.gov/departments--city-administrator--datasf) or on [our blog](https://datasf.substack.com/). If you need help with a data asset or have an issue with one of the platforms we manage, please reach out via email at [support@datasf.org](mailto:support@datasf.org).
 
 > [!NOTE]
-> Most of the public repos on this GitHub are archived, but that doesn't mean DataSF is defunct. We're hard at work building internal infrastructure and projects, mostly around the UDP.
+> Most of the public repos on this GitHub are archived, but that doesn't mean DataSF is inactive. We're hard at work building internal infrastructure and projects, mostly around the UDP.
